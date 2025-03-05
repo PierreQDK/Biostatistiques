@@ -1,6 +1,6 @@
 ---
 title: "Rapport de biostatistique"
-author: "Pierre et Florian"
+author: "Pierre QUINTIN de KERCADIO et Florian CROCHET"
 format:
   pdf:
     toc: true
